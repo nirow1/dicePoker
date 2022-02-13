@@ -1,0 +1,14 @@
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\william\Desktop\BlackJack 2.0\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\william\Desktop\škola napady\komponentová tvorba\BlackJack 2.5\BlackJack\obj\Debug\BlackJack.pdb
